@@ -1,0 +1,41 @@
+{
+  "name": "page-design",
+  "version": "0.2.0",
+  "description": "使用 MIP 组件和 mag design 构建精美的 MIP 页面",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mipengine/page-design.git"
+  },
+  "keywords": [
+    "MIP",
+    "MIP模板",
+    "MIP组件",
+    "UI组件",
+    "模板"
+  ],
+  "contributors": [
+    {
+      "name": "momofan",
+      "email": "lilangbo111@163.com"
+    },
+    {
+      "name": "xuexb",
+      "email": "fe.xiaowu@gmail.com"
+    }
+  ],
+  "author": "mipengine <mip-support@baidu.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mipengine/page-design/issues"
+  },
+  "homepage": "https://github.com/mipengine/page-design#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-api-require": "^0.0.2",
+    "marked": "^0.3.19",
+    "res-json": "^1.0.1"
+  }
+}
